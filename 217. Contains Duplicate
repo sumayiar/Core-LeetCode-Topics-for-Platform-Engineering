@@ -9,3 +9,4 @@ class Solution:
         return False
 
 #sets store unique values
+#time and space complexity is O(n) because each lookup is constant time.
