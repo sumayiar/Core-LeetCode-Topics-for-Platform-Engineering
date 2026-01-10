@@ -1,4 +1,7 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         #interesting medium problem
-        #brute force method has a time complexity of O(n^2)
+        #brute force method has a time complexity of O(n^2), which is too high for the required runtime of O(n)
+        #we can't use the division operation 
+        #need to create an array storing all the values to the left and another array storing all the values to the right
+        
