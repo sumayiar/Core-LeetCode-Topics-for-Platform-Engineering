@@ -2,10 +2,10 @@
   Strengthening my Python skills.
 
   Goal: complete these problems three times
-  1. Two Sum
-  2. Contains Duplicate
-  3. Group Anagrams
-  4. Top K Frequent Elements
+  1. Two Sum ✅
+  2. Contains Duplicate ✅
+  3. Group Anagrams ✅
+  4. Top K Frequent Elements ✅
   5. Product of Array Except Self
   6. Merge Intervals
   7. Valid Anagram
