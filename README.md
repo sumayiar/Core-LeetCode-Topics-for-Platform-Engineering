@@ -1,7 +1,7 @@
 # Core-LeetCode-Topics-for-Platform-Engineering
   Strengthening my Python skills.
 
-  Goal:
+  Goal: complete these problems three times
   1. Two Sum
   2. Contains Duplicate
   3. Group Anagrams
