@@ -1,3 +1,4 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         #interesting medium problem
+        #brute force method has a time complexity of O(n^2)
