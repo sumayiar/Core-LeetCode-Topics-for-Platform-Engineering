@@ -6,7 +6,7 @@
   2. Contains Duplicate ✅
   3. Group Anagrams ✅
   4. Top K Frequent Elements ✅
-  5. Product of Array Except Self
+  5. Product of Array Except Self ✅
   6. Merge Intervals
   7. Valid Anagram
   8. Longest Substring Without Repeating Characters
